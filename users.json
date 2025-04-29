@@ -1,0 +1,30 @@
+{
+    "mathis": {
+        "mdp": "1010",
+        "role": "admin"
+    },
+    "maria": {
+        "mdp": "2025",
+        "role": "admin"
+    },
+    "test": {
+        "mdp": "test",
+        "role": "client"
+    },
+    "test_admin": {
+        "mdp": "beausoleil",
+        "role": "admin"
+    },
+    "test2": {
+        "mdp": "1234",
+        "role": "client"
+    },
+    "testA": {
+        "mdp": "1234",
+        "role": "admin"
+    },
+    "test6": {
+        "mdp": "2904",
+        "role": "client"
+    }
+}

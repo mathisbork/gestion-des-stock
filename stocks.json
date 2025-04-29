@@ -1,0 +1,122 @@
+{
+    "1": {
+        "nom": "Lait frais",
+        "quantite": 7,
+        "lieu": "Frigo",
+        "date_peremption": "2025-05-19"
+    },
+    "2": {
+        "nom": "Yaourt",
+        "quantite": 93,
+        "lieu": "Frigo",
+        "date_peremption": "2025-05-23"
+    },
+    "3": {
+        "nom": "Fromage",
+        "quantite": 15,
+        "lieu": "Frigo",
+        "date_peremption": "2025-05-28"
+    },
+    "4": {
+        "nom": "Beurre",
+        "quantite": 57,
+        "lieu": "Frigo",
+        "date_peremption": "2025-05-07"
+    },
+    "5": {
+        "nom": "Poulet",
+        "quantite": 25,
+        "lieu": "Cong�lateur",
+        "date_peremption": "2025-05-08"
+    },
+    "6": {
+        "nom": "Poisson",
+        "quantite": 58,
+        "lieu": "Cong�lateur",
+        "date_peremption": "2025-05-07"
+    },
+    "7": {
+        "nom": "Frites congel�es",
+        "quantite": 31,
+        "lieu": "Cong�lateur",
+        "date_peremption": "2025-05-19"
+    },
+    "8": {
+        "nom": "Glace",
+        "quantite": 67,
+        "lieu": "Cong�lateur",
+        "date_peremption": "2025-05-15"
+    },
+    "9": {
+        "nom": "Pain",
+        "quantite": 75,
+        "lieu": "Placard",
+        "date_peremption": "2025-05-24"
+    },
+    "10": {
+        "nom": "Farine",
+        "quantite": 83,
+        "lieu": "Placard",
+        "date_peremption": "2025-05-16"
+    },
+    "11": {
+        "nom": "Sucre",
+        "quantite": 66,
+        "lieu": "Placard",
+        "date_peremption": "2025-05-29"
+    },
+    "12": {
+        "nom": "Huile d'olive",
+        "quantite": 19,
+        "lieu": "Placard",
+        "date_peremption": "2025-05-06"
+    },
+    "13": {
+        "nom": "Cereales",
+        "quantite": 58,
+        "lieu": "Placard",
+        "date_peremption": "2025-05-16"
+    },
+    "14": {
+        "nom": "Pates",
+        "quantite": 39,
+        "lieu": "Placard",
+        "date_peremption": "2025-05-28"
+    },
+    "15": {
+        "nom": "Riz",
+        "quantite": 39,
+        "lieu": "Placard",
+        "date_peremption": "2025-05-27"
+    },
+    "16": {
+        "nom": "Tomates",
+        "quantite": 86,
+        "lieu": "Placard",
+        "date_peremption": "2025-05-16"
+    },
+    "17": {
+        "nom": "Pommes",
+        "quantite": 27,
+        "lieu": "Placard",
+        "date_peremption": "2025-05-14"
+    },
+    "18": {
+        "nom": "Carottes",
+        "quantite": 56,
+        "lieu": "Placard",
+        "date_peremption": "2025-05-06"
+    },
+    "19": {
+        "nom": "Chocolat",
+        "quantite": 30,
+        "lieu": "Placard",
+        "date_peremption": "2025-05-27"
+    },
+    "20": {
+        "nom": "Biscuits",
+        "quantite": 15,
+        "lieu": "Placard",
+        "date_peremption": "2025-05-12"
+    }
+}
