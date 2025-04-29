@@ -53,4 +53,4 @@ Les données utilisateurs et stocks sont **stockées localement** sous forme de 
 
 1. Clonez ce dépôt ou téléchargez les fichiers :
    ```bash
-   git clone <URL_DU_DEPOT>
+   git clone <https://github.com/mathisbork/gestion-des-stock>
